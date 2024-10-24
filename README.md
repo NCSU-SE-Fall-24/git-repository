@@ -13,3 +13,5 @@ Group Number: 79
 | Jap Purohit | jpurohi  |
 | Kenil Patel | kpatel47 |
 | Mihir Shah  | mshah25  |
+
+![Webpage Screenshot](image.png)
